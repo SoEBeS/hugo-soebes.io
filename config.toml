@@ -8,7 +8,7 @@ theme = "hugo-octopress"
 paginate = 6
 
 pygmentsuseclasses = true
-pygmentsstyle = "solarized_dark"
+# pygmentsstyle = "solarized_dark"
 
 # you need to install Solarized from https://github.com/john2x/solarized-pygment.git
 # Octopress blog used Solarized_dark
@@ -82,7 +82,7 @@ pygmentsoptions = "linenos=true"
 	truncate = true
 
 	# author's name (this will appear in metadata and under posts)
-	author = "Copyright 2004-2016 SoftwareEntwicklung Beratung Schulung"
+	author = "Karl Heinz Marbaise"
 
 	# appears in the site header under website title
 	subtitle = "A coders, hackers heaven.....Hm...I do not think so..."
@@ -126,6 +126,9 @@ pygmentsoptions = "linenos=true"
 	notfound_header = "There's nothing here"
 
 	notfound_text = "Please either go back or use the navigation/sidebar menus."
+
+	# Set to true to disable downloading of remote Google fonts
+	disableGoogleFonts = true
 
 # blackfriday is Hugo's markdown engine. Options are at: https://gohugo.io/overview/configuration/ (scroll down to "Configure Blackfriday rendering")
 [blackfriday]

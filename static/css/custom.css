@@ -1,7 +1,15 @@
-
+.has-sidebar .main {
+  margin-left: 369px;
+}
+.main {
+  margin-left: 369px;
+}
+.sidebar {
+  width: 369px;
+}
 .soebeslogo {
   width: 369px;
-  height: 99px;
+  height: 133px;
   margin: 0px;
   padding-top: 17px;
   padding-bottom: 17px;

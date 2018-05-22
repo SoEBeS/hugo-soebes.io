@@ -2,64 +2,39 @@
 date: 2017-09-28T08:00:00+06:00
 title: Impressum
 authors: ["khmarbaise"]
-slug: typography
+slug: impressum 
 menu: main
 weight: -230
 ---
-Here is a paragraph. **Lorem ipsum _dolor_ sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Inhaltlich verantwortlich für die vorliegenden Internetseiten unter den Domains
+[soebes.de][de], [soebes.com][com], [soebes.biz][biz],
+[soebes.name][name], [soebes.info][info], [soebes.net][net], 
+[soebes.org][org], [soebes.eu][eu], [soebes.ch][ch]
+und [soebes.at][at] laut dem [§6 des TDG ist][tdg]:
 
-## Heading 2
 
-Another one. Ut enim ad minim veniam, _quis nostrud exercitation **ullamco** laboris nisi ut aliquip ex ea commodo consequat_. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+```
+SoftwareEntwicklung Beratung Schulung
+Dipl.Ing.(FH) Karl Heinz Marbaise
 
-{{% center %}}
-### Heading 3
+Hauptstr. 177
+52146 Würselen
 
-Yet another, but centered! Excepteur sint occaecat ~~cupidatat non proident, sunt in culpa qui officia~~ deserunt mollit anim id est laborum.
-{{% /center %}}
 
-#### Heading 4
-
-1. First item
-2. Second item
-  - Nested unordered item
-3. Third item
-  1. Nested ordered item 1
-  2. Nested ordered item 2
-
-##### Heading 5
-
-Where are the quotes!!!
-
-> Simplify, then add lightness.  
-— Colin Chapman
-
-Now, [time for some links](/typography#heading-5)!
-
-- [GoHugo]
- - [Hugo Themes][1]
-
-[GoHugo]: https://gohugo.io
-[1]: https://themes.gohugo.io/
-
-###### Heading 6
-
-Inline code: `echo "What is the meaning of life?"`. Who knows?
-
-```javascript
-// Codeblock
-
-var meaningOfLife = 42;
-console.log('The meaning of life is: ', meaningOfLife);
+  Telefon : +49 2405 / 415 893
+    EMail : impressum@soebes.de
+USt-IdNr. : DE191347579
 ```
 
----
 
-Who wants some table?
-
-  Minimo  |  Caption  | More Caption
- -------- | --------- | ------------
-   Cool   |   What?   |  Now, wut?!
-
-
-Ah, enough for today, eh?
+[tdg]: http://netlaw.de/gesetze/tdg.htm
+[de]: http://soebes.de
+[com]: http://soebes.com
+[biz]: http://soebes.biz
+[name]: http://soebes.name
+[info]: http://soebes.info
+[net]: http://soebes.net
+[org]: http://soebes.org
+[eu]: http://soebes.eu
+[ch]: http://soebes.ch
+[at]: http://soebes.at

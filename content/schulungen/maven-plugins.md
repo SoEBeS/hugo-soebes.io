@@ -1,5 +1,5 @@
 ---
-date: 2018-02-07T18:30:00+06:00
+date: 2018-01-07T18:30:00+06:00
 lastmod: 2018-04-12T02:30:00+06:00
 title: Apache Maven Plugin Workshop
 authors: ["khmarbaise"]
@@ -12,7 +12,7 @@ slug: maven-plugins
 toc: true
 ---
 Sie implementieren selbst Maven Plugins? Die Frage ist jetzt
-nur wie kommt man an Informationen? Wie Testet man ein Plugin?
+nur wie kommt man an Informationen?  Wie Testet man ein Plugin?
 Welche Arten von Tests sollte man schreiben?
 
 
@@ -38,7 +38,6 @@ Workshop...
 
  * Entwickler/innen die eigene Maven Plugins entwickeln müssen.
 
-
 ### Schulungsunterlagen
 
  * ????Eigene Unterlagen, Referenzdokumentation in PDF Form.
@@ -55,6 +54,11 @@ aktuellsten Version Maven 3.5.3
 
 
 ## Inhalte des Seminars
+
+### Eigene Plugins Entwickeln 
+
+ * Eigene Plugins entwickeln (Java Mojos)
+
 
 ### Einführung in Maven
 

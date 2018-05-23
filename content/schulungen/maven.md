@@ -12,10 +12,11 @@ slug: maven
 toc: true
 ---
 Sie haben bedarf an einer [Apache Maven Schulung][maven]? Hier finden Sie eine
-Übersicht bzgl. der Inhalte und Anforderungen. Sie können uns gerne 
-[kontaktieren](mailto:training@soebes.de) und wir machen Ihnen ein individuelles Angebot. 
+Übersicht bzgl. der Inhalte und Anforderungen. Sie können uns gerne
+[kontaktieren](mailto:training@soebes.de) und wir beraten Sie gerne. Bei Bedarf
+machen wir Ihnen ein individuelles Angebot. 
 
-Wir führen ein solche Schulung bei Ihnen vor Ort durch.
+Wir führen ein solche Schulung bei Ihnen vor Ort durch. 
 
 ## Übersicht
 [Apache Maven][maven] ist ein Build-Management-Tool, das den
@@ -38,6 +39,7 @@ kennen und können mit Maven die kontinuierliche Integration automatisieren.
  
  * Es sind mindestens Fortgeschrittene Java Kenntnisse Notwendig.
  * Kenntnisse in XML sollten vorhanden sein.
+ * Kenntnisse eines Versionskontrollsystems (z.B. SVN oder Git o.ä.)
 
 ### Zielgruppe
 
@@ -52,11 +54,11 @@ Auf Wunsch wird auch eine Zertifikat ausgestellt.
 
 ### Software
 
-Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der
+ * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der
 Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
-Auf Wunsch auch IntelliJ IDEA oder andere Entwicklungsumgebungen
-(NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10. Der Kurs basiert auf der
-aktuellsten Version Maven 3.5.3
+ * Auf Wunsch kann auch mit IntelliJ IDEA oder andere Entwicklungsumgebungen
+(NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10. 
+ * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.5.3).
 
 
 ## Inhalte des Seminars
@@ -65,7 +67,6 @@ aktuellsten Version Maven 3.5.3
 
  * Was ist Maven und vor allem was Maven nicht ist?
  * Installation und Konfiguration
- * Prinzipien: Convention Over Configuration, Verzeichnisaufbau
  * Maven auf der Kommandozeile
 
 ### Build-Management mit Maven
@@ -77,13 +78,16 @@ aktuellsten Version Maven 3.5.3
    * [Verzeichnisstruktur erzeugen][layout]
    * Repository Checkout 
    * Releases
- * Lokaler Cache (aka lokales Repository)
- * Remote Repositories 
-   * https://central.maven.org/maven2/ (aka Maven Central)
-   * https://central.sonatype.org/
- * Abhängikgeiten beschreiben
+ * Repositories
+   * Lokaler Cache (aka lokales Repository)
+   * Remote Repositories 
+     * https://central.maven.org/maven2/ (aka Maven Central)
+     * https://central.sonatype.org/
+ * Abhängikgeiten
    * `dependencyManagement` versus `dependencies`
    * Konflikte bei den Abhängigkeiten auflösen (Dependency Conflicts)
+ * Prinzipien: Convention Over Configuration, Verzeichnisaufbau
+ * Versionsnummerierungen (Release- und SNAPSHOT Versionen).
 
 ### Maven Plugins
 
@@ -92,9 +96,8 @@ aktuellsten Version Maven 3.5.3
    * Packaging 
    * Reporting
    * Tools
+ * Konfiguration von Plugins
  * Die wichtigsten Maven-Plugins
-   * Qualitätssicherung: 
-     * PMD, Checkstyle, Findbugs, JaCoCo, JDepend, Metrics
    * Core Plugins:
      * [clean][plugin-clean], compiler, install, deploy, resources, surefire, failsafe
    * Paketierungs Plugins:
@@ -103,56 +106,75 @@ aktuellsten Version Maven 3.5.3
      * [maven-ear-plugin][plugin-ear]
      * [maven-rar-plugin][plugin-rar] 
    * Berichte, Statistiken, Webseiten erzeugen
+   * Qualitätssicherung: 
+     * PMD, Checkstyle, Findbugs, JaCoCo, JDepend, Metrics
    * Maven Archetype Plugin
    * Maven Assembly Plugin
- * Profile (Project, User, Global)
-   * Wann ist die Nutzung eines Profiles sinnvoll und wann nicht?
+  * appassembler-maven-plugin, versions-maven-plugin, buildnumber-maven-plugin,
+    
 
-###  Maven in der Praxis
- 
- * Unit- und Integrationstesting
- * Best Practices
- * Tipps zum effektiven Enterprise-Software Release Management
- * Refactoring von Abhängigkeiten
- * IDE Integration
- * Eigene Plugins entwickeln (Java Mojos)
+### Konfiguration
+
+ * Verwendung der Kommandozeile (`.mvn/maven.config` u. `.mvn/jvm.config`)
+ * Die [`settings.xml`][settings.xml] Datei
+   * Server / Passwörter
+   * Verschlüsselung von Zugangsdaten
 
 ### Multi Module Projekte
 
  * Idee von Multi Module Projekten
+ * Versionierung von Multi Module Projekten
+ * Build Reihenfolge beeinflussen
+ * Typische Multi Module Strukturen
  * BOM (Bill of Materials)
  * Parent POMs
    * Projektvererbung
 
+### Java 9+
+
+ * Verwendung von Java Modulen
+   in einem Maven Build
+
+###  Maven in der Praxis
+ 
+ * [Profile][profiles] (Project, User, Global)
+   * Wann ist die Nutzung eines Profiles sinnvoll und wann nicht?
+ * Unit- und Integrationstesting
+   * Ausführungsreihenfolge
+   * Konfiguration
+ * Wie erstellt man eine Release mit Maven?
+ * Refactoring von Abhängigkeiten
+ * IDE Integration
+ * Build beschleunigen (Parallelisierung des Builds)
+
 ### Eigenes Remote Repository aufbauen
 
- * Wann ist der Einsatz eines Repository Managers Notwendig?
+ * Ist der Einsatz eines Repository Managers Notwendig?
  * Aufgaben eines Repository Managers
- * ?
- * Einsatz und Nutzung eines Repository Manager 
+ * Vor- und Nachteile eines Repository Managers
 
 ### Versionskontrollsystem
 
  * Anwendung im Zusammenhang mit Maven
    * Git
    * SVN
- * Release Erstellung
+ * Release Erstellung und Notwendige Konfiguration
+   in Maven.
 
-Verwendung eines Versionskontrollsystems (Git, SVN etc.)
 
-### Migration von XX zu Maven
+### Migration von Tool X nach Maven
 
  * Welche Punkte sind zu beachten?
 
 ### Jenkins
 
+ * Konfiguration von Jenkins im Zusammenhang mit Maven
+ * Config File Provider Plugin in Jenkins
  * Continuous Integration mit Maven: Jenkins
 
 Aufbau einer Projekt-Webseite
 Aufbau eines Java-Web-Projekts mit Tomcat und automatischem Deployment, Tests, QS
 Build Optimierung mit Maven, Parallele Builds in Maven 3
-
-
 
 [maven]: https://maven.apache.org/
 [pom]: https://maven.apache.org/pom.html
@@ -164,3 +186,5 @@ Build Optimierung mit Maven, Parallele Builds in Maven 3
 [plugin-rar]: https://maven.apache.org/plugins/maven-rar-plugin/
 
 [plugin-clean]: https://maven.apache.org/plugins/maven-clean-plugin/
+[profiles]: https://maven.apache.org/guides/introduction/introduction-to-profiles.html
+[settings.xml]: https://maven.apache.org/settings.html

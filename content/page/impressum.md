@@ -9,7 +9,7 @@ weight: -230
 Inhaltlich verantwortlich für die vorliegenden Internetseiten unter den Domains
 [soebes.de][de], [soebes.com][com], [soebes.biz][biz],
 [soebes.name][name], [soebes.info][info], [soebes.net][net], 
-[soebes.org][org], [soebes.eu][eu], [soebes.ch][ch]
+[soebes.org][org], [soebes.eu][eu], [soebes.ch][ch], [soebes.io][io]
 und [soebes.at][at] laut dem [des TDG ist][tdg]:
 
 
@@ -38,3 +38,4 @@ USt-IdNr. : DE191347579
 [eu]: http://soebes.eu
 [ch]: http://soebes.ch
 [at]: http://soebes.at
+[io]: http://soebes.io

@@ -173,9 +173,8 @@ Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
  * Config File Provider Plugin in Jenkins
  * Continuous Integration mit Maven: Jenkins
 
-Aufbau einer Projekt-Webseite
-Aufbau eines Java-Web-Projekts mit Tomcat und automatischem Deployment, Tests, QS
-Build Optimierung mit Maven, Parallele Builds in Maven 3
+Sollten Sie an weiteren Themen interessiert sein wenden Sie sich gerne
+an uns.
 
 [maven]: https://maven.apache.org/
 [pom]: https://maven.apache.org/pom.html

@@ -11,7 +11,7 @@ Source Tools wie z.B. [Subversion][svn] oder [Git][git].
 Sie suchen Unterstützung oder Beratung im Bereich Migration 
 hinzu Subversion oder Git?
 
-Sie suchen die Möglichkeit Ihre Mitarbeiter zu schulen?
+Sie suchen Möglichkeiten Ihre Mitarbeiter zu schulen?
 
 Sie möchten in die Programmierung z.B. mit Java einsteigen oder Sie haben
 Bedarf im Bereich Build Management mit [Maven][maven] und/oder 
@@ -20,9 +20,7 @@ einer Continious Integration Lösung wie z.B. [Jenkins][jenkins], dann wenden Si
 Sie suchen externe Mitarbeiter als Unterstützung bei der Entwicklung oder im
 Bereich Beratung?
 
-Nehmen Sie einfach Kontakt mit uns auf [info@soebes.de][email]
-
-{{< ref "page/impressum.md" >}} 
+Nehmen Sie einfach Kontakt mit uns auf [info@soebes.de](mailto:info@soebes.de) 
 
 
 [svn]: https://subversion.apache.org/

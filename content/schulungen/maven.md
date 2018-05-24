@@ -56,7 +56,7 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
 
  * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der
 Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
- * Auf Wunsch kann auch mit andere Entwicklungsumgebungen
+ * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen
    (IDEA, NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10 gearbeitet werden.
  * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.5.3).
 
@@ -91,9 +91,9 @@ Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
 ### Maven Plugins
 
  * Zweck und Kategorien 
-   * Core 
+   * Core z.B. [maven-compiler-plugin][plugin-compiler], [maven-resources-plugin][plugin-resources] etc.
    * Packaging 
-   * Reporting
+   * Reporting [maven-site-plugin][plugin-site]
    * Tools
  * Konfiguration von Plugins
  * Die wichtigsten Maven-Plugins
@@ -106,7 +106,7 @@ Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
      * [maven-rar-plugin][plugin-rar] 
    * Berichte, Statistiken, Webseiten erzeugen
    * Qualitätssicherung: 
-     * PMD, Checkstyle, Findbugs, JaCoCo, JDepend, Metrics
+     * PMD, Checkstyle, Findbugs, JaCoCo, JDepend, Sonar
    * Maven Archetype Plugin
    * Maven Assembly Plugin
   * [appassembler-maven-plugin][appassembler-plugin], 
@@ -146,6 +146,7 @@ Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
  * Refactoring von Abhängigkeiten
  * IDE Integration
  * Build beschleunigen (Parallelisierung des Builds)
+ * Was sind sog. Consumer POMs? 
 
 ### Eigenes Remote Repository aufbauen
 
@@ -183,6 +184,9 @@ an uns.
 [plugin-war]: https://maven.apache.org/plugins/maven-war-plugin/
 [plugin-ear]: https://maven.apache.org/plugins/maven-ear-plugin/
 [plugin-rar]: https://maven.apache.org/plugins/maven-rar-plugin/
+[plugin-compiler]: https://maven.apache.org/plugins/maven-compiler-plugin/
+[plugin-resources]: https://maven.apache.org/plugins/maven-resources-plugin/
+[plugin-site]: https://maven.apache.org/plugins/maven-site-plugin/
 
 [plugin-clean]: https://maven.apache.org/plugins/maven-clean-plugin/
 [profiles]: https://maven.apache.org/guides/introduction/introduction-to-profiles.html

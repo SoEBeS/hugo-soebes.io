@@ -7,8 +7,8 @@ authors: ["khmarbaise"]
 categories:
   - schulungen
 tags:
-  - config
   - maven-plugins
+  - schulungen
 slug: maven-plugins
 toc: true
 ---

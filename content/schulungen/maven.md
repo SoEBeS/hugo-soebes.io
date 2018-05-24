@@ -6,7 +6,6 @@ authors: ["khmarbaise"]
 categories:
   - schulungen
 tags:
-  - config
   - maven
 slug: maven
 toc: true

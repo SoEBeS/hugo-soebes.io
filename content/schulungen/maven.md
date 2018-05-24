@@ -24,7 +24,8 @@ automatischen Bau von Java-Software, das Testen, Verteilen sowie die Erzeugung d
 und die Ausgabe von Reports ermöglicht. Das praxisnahe Seminar zeigt, wie Maven
 auf der Basis des Project Object Model (POM) das Projektmanagement
 automatisiert und die Qualitätssicherung von Software-Projekten unterstützt.
-Teilnehmer lernen mit der Plugin-Architektur die Entwicklungsinfrastruktur
+
+Die Teilnehmer lernen die Anwendung und Nutzung des 
 kennen und können mit Maven die kontinuierliche Integration automatisieren.
 
 

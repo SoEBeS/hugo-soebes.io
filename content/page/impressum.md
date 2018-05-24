@@ -10,7 +10,7 @@ Inhaltlich verantwortlich für die vorliegenden Internetseiten unter den Domains
 [soebes.de][de], [soebes.com][com], [soebes.biz][biz],
 [soebes.name][name], [soebes.info][info], [soebes.net][net], 
 [soebes.org][org], [soebes.eu][eu], [soebes.ch][ch]
-und [soebes.at][at] laut dem [§6 des TDG ist][tdg]:
+und [soebes.at][at] laut dem [des TDG ist][tdg]:
 
 
 ```
@@ -27,7 +27,7 @@ USt-IdNr. : DE191347579
 ```
 
 
-[tdg]: http://netlaw.de/gesetze/tdg.htm
+[tdg]: https://dejure.org/gesetze/TMG
 [de]: http://soebes.de
 [com]: http://soebes.com
 [biz]: http://soebes.biz

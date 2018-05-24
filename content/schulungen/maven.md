@@ -56,10 +56,9 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
 
  * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der
 Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
- * Auf Wunsch kann auch mit IntelliJ IDEA oder andere Entwicklungsumgebungen
-(NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10 gearbeitet werden.
+ * Auf Wunsch kann auch mit andere Entwicklungsumgebungen
+   (IDEA, NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10 gearbeitet werden.
  * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.5.3).
-
 
 ## Inhalte des Seminars
 
@@ -110,7 +109,8 @@ Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
      * PMD, Checkstyle, Findbugs, JaCoCo, JDepend, Metrics
    * Maven Archetype Plugin
    * Maven Assembly Plugin
-  * appassembler-maven-plugin, versions-maven-plugin, buildnumber-maven-plugin,
+  * [appassembler-maven-plugin][appassembler-plugin], 
+    [versions-maven-plugin][versions-plugin], [buildnumber-maven-plugin][buildnumber-plugin]
     
 
 ### Konfiguration
@@ -187,3 +187,8 @@ an uns.
 [plugin-clean]: https://maven.apache.org/plugins/maven-clean-plugin/
 [profiles]: https://maven.apache.org/guides/introduction/introduction-to-profiles.html
 [settings.xml]: https://maven.apache.org/settings.html
+
+[versions-plugin]: https://www.mojohaus.org/versions-maven-plugin/
+[appassembler-plugin]: https://www.mojohaus.org/appassembler/appassembler-maven-plugin/
+[buildnumber-plugin]: https://www.mojohaus.org/buildnumber-maven-plugin/
+[build-helper-plugin]: https://www.mojohaus.org/buildi-helper-maven-plugin/

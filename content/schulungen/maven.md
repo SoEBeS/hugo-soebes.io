@@ -37,9 +37,9 @@ kennen und können mit Maven die kontinuierliche Integration automatisieren.
 
 ### Vorkenntnisse
  
- * Es sind mindestens Fortgeschrittene Java Kenntnisse Notwendig.
+ * Es sind mindestens fortgeschrittene Java Kenntnisse notwendig.
  * Kenntnisse in XML sollten vorhanden sein.
- * Kenntnisse eines Versionskontrollsystems (z.B. SVN oder Git o.ä.)
+ * Kenntnisse eines Versionskontrollsystems (z.B. SVN oder Git o.ä.) solten vorhanden sein.
 
 ### Zielgruppe
 
@@ -50,14 +50,14 @@ kennen und können mit Maven die kontinuierliche Integration automatisieren.
 
  * Eigene Unterlagen, Referenzdokumentation in PDF Form.
 
-Auf Wunsch wird auch eine Zertifikat ausgestellt.
+Auf Wunsch wird auch ein Zertifikat ausgestellt.
 
 ### Software
 
  * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der
 Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
  * Auf Wunsch kann auch mit IntelliJ IDEA oder andere Entwicklungsumgebungen
-(NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10. 
+(NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10 gearbeitet werden.
  * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.5.3).
 
 
@@ -65,7 +65,7 @@ Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
 
 ### Einführung in Maven
 
- * Was ist Maven und vor allem was Maven nicht ist?
+ * Was ist Maven und vor allem was ist Maven nicht ist?
  * Installation und Konfiguration
  * Maven auf der Kommandozeile
 
@@ -120,12 +120,12 @@ Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
    * Server / Passwörter
    * Verschlüsselung von Zugangsdaten
 
-### Multi Module Projekte
+### Multi Modul Projekte
 
- * Idee von Multi Module Projekten
- * Versionierung von Multi Module Projekten
+ * Idee von Multi Modul Projekten
+ * Versionierung von Multi Modul Projekten
  * Build Reihenfolge beeinflussen
- * Typische Multi Module Strukturen
+ * Typische Multi Modul Strukturen
  * BOM (Bill of Materials)
  * Parent POMs
    * Projektvererbung
@@ -138,7 +138,7 @@ Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
 ###  Maven in der Praxis
  
  * [Profile][profiles] (Project, User, Global)
-   * Wann ist die Nutzung eines Profiles sinnvoll und wann nicht?
+   * Wann ist die Nutzung eines Profils sinnvoll und wann nicht?
  * Unit- und Integrationstesting
    * Ausführungsreihenfolge
    * Konfiguration
@@ -149,7 +149,7 @@ Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
 
 ### Eigenes Remote Repository aufbauen
 
- * Ist der Einsatz eines Repository Managers Notwendig?
+ * Ist der Einsatz eines Repository Managers notwendig?
  * Aufgaben eines Repository Managers
  * Vor- und Nachteile eines Repository Managers
 
@@ -158,7 +158,7 @@ Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
  * Anwendung im Zusammenhang mit Maven
    * Git
    * SVN
- * Release Erstellung und Notwendige Konfiguration
+ * Release Erstellung und notwendige Konfiguration
    in Maven.
 
 
@@ -172,7 +172,7 @@ Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
  * Config File Provider Plugin in Jenkins
  * Continuous Integration mit Maven: Jenkins
 
-Sollten Sie an weiteren Themen interessiert sein wenden Sie sich gerne
+Sollten Sie an weiteren Themen interessiert sein, wenden Sie sich gerne
 an uns.
 
 [maven]: https://maven.apache.org/

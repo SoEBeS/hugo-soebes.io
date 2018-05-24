@@ -8,11 +8,11 @@ weight: -230
 ---
 
 Im Rahmen des vorliegenden Internetauftritts werden an vielen Stellen sog.
-Links gesetzt. Die Verwendung von Links ist einer der vitalen Gründe auf denen
+Links gesetzt. Die Verwendung von Links ist einer der vitalen Grundlagen, auf denen
 das Internet basiert.
 
-Zum Zeitpunkt der Link-Setzung wurden die Links mit der Absicht gesetzt weitere
-Informationen zu liefern bzw. dem Besucher zur Verfügung zu stellen oder auch
+Zum Zeitpunkt der Link-Setzung wurden die Links mit der Absicht gesetzt, weitere
+Informationen zu liefern bzw. dem Besucher zur Verfügung zu stellen, oder auch
 auf Seiten zu verweisen, deren Aussehen oder Inhalte ich für erwähnenswert
 halte.
 
@@ -21,11 +21,11 @@ kontrolliert, ob die gewünschten Informationen dort vorliegen.
 
 Sollte sich das für einen oder mehrere Links nach der Linksetzung geändert
 haben, entweder im Bezug auf den Informationsgehalt oder im Bezug auf
-eventuelle rechtliche Belange, so haben wir darauf leider keinen einfluss.
+eventuelle rechtliche Belange, so haben wir darauf leider keinen Einfluss.
 
-Wir sind aber sehr dankbar für einen Hinweis auf einen Link bzw. Seite dessen
-Inhalte sich geändert haben oder die rechtliche Belange tangieren. Ein solchen
-Hinweis, können Sie mir auf elektronischem Weg als auch auf postalischem Wege
+Wir sind aber sehr dankbar für einen Hinweis auf einen Link bzw. Seite, wo
+Inhalte sich geändert haben bzw. die rechtliche Belange tangieren. Ein solchen
+Hinweis können Sie mir sowohl auf elektronischem Weg als auch per Post
 übermitteln.
 
 gez. Karl Heinz Marbaise

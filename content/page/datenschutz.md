@@ -35,5 +35,5 @@ Es erfolgt keinerlei weitergabe der Daten an dritte ausser, der Weitergabe an
 die Ermittlungsbehörden im Rahmen einer Ermittlung bzw. im Rahmen der
 gesetzlichen Verpflichtung als Betreiber einer Internetseite.
 
-Wir weisen darauf in, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz
 der Daten vor dem Zugriff durch Dritte ist nicht möglich.

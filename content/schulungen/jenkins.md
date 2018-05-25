@@ -7,7 +7,6 @@ authors: ["khmarbaise"]
 categories:
   - schulungen
 tags:
-  - config
   - jenkins
 slug: jenkins
 toc: true

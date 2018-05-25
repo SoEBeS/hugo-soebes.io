@@ -1,143 +1,75 @@
 [author]
-one = "Author"
-other = "Authors"
-
-[authorsAvatar]
-other = "{{ .Author }}'s avatar"
+one = "Autor"
+other = "Autoren"
 
 [by]
-other = "by"
-
-[cancel]
-other = "Cancel"
-
-[cancelComment]
-other = "Cancel comment"
+other = "von"
 
 [category]
-one = "Category"
-other = "Categories"
-
-[comment]
-other = "Comment"
-
-[commentSubmissionErrorMessage]
-other = "Error occured. Couldn't submit your comment. Please try again. Thank You!"
-
-[commentSubmissionErrorTitle]
-other = "Yikes, Sorry!"
-
-[commentSubmissionSuccessMessage]
-other = "Your comment has been submitted. It will appear on this page shortly!"
-
-[commentSubmissionSuccessTitle]
-other = "Thank You!"
-
-[commentsOnEntry]
-one = "Only {{ .Count }} comment on {{ .Title }}"
-other = "{{ .Count }} comments on {{ .Title }}"
+one = "Kategorie"
+other = "Kategorien"
 
 [contactViaEmail]
-other = "Contact via Email"
+other = "Per E-Mail kontaktieren"
 
 [currentPage]
-other = "Current page"
-
-[email]
-other = "Email"
+other = "Aktuelle Seite"
 
 [gopher]
 other = "Gopher"
 
 [goHome]
-other = "Go Home..."
-
-[leaveAComment]
-other = "Leave a comment"
+other = "Zur Startseite …"
 
 [mainMenu]
-other = "Main Menu"
-
-[name]
-other = "Name"
+other = "Hauptmenü"
 
 [next]
-other = "Next"
+other = "Weiter"
 
 [nextPage]
-other = "Next page"
+other = "Nächste Seite"
 
 [nextPost]
-other = "Next post"
+other = "Nächster Beitrag"
 
 [noTerm]
-other = "Not a single {{ .Term }}!"
-
-[ok]
-other = "OK"
+other = "Kein einzelner {{ .Term }}!"
 
 [openAccountInNewTab]
-other = "Open {{ .Platform }} account in new tab"
+other = "{{ .Platform }} in neuem Tab öffnen"
 
 [page]
-other = "Page"
+other = "Seite"
 
 [previous]
-other = "Previous"
+other = "Vorherige"
 
 [previousPage]
-other = "Previous page"
+other = "Vorherige Seite"
 
 [previousPost]
-other = "Previous post"
+other = "Vorheriger Beitrag"
 
 [postedOn]
-other = "Posted on"
+other = "Veröffentlicht unter"
 
 [readingTime]
-one = "One min read"
-other = "{{ .Count }} mins read"
+one = "Eine Minute Lesezeit"
+other = "{{ .Count }} Minuten Lesezeit"
 
 [recentPosts]
-other = "Recent Posts"
-
-[reply]
-other = "Reply"
-
-[replyToAuthor]
-other = "Reply to {{ .Author }}"
-
-[says]
-other = "says"
-
-[series]
-one = "Series"
-other = "Series"
-
-[sidebarMenu]
-other = "Sidebar Menu"
+other = "Vorherige Beiträge"
 
 [skipToContent]
-other = "Skip to Content"
-
-[skipToMainMenu]
-other = "Skip to Main Menu"
+other = "Zum Inhalt springen"
 
 [socialMenu]
-other = "Social Menu"
-
-[submitComment]
-other = "Comment!"
+other = "Social-Menü"
 
 [tableOfContents]
-other = "Table of Contents"
+other = "Inhaltsverzeichnis"
 
 [tag]
-one = "Tag"
-other = "Tags"
-
-[toggleSidebar]
-other = "Toggle Sidebar"
-
-[website]
-other = "Website"
+one = "Schlagwort"
+other = "Schlagwörter"

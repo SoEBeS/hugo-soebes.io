@@ -13,8 +13,8 @@ slug: maven-plugins
 toc: true
 ---
 Sie implementieren selbst Maven Plugins? Die Frage ist jetzt
-nur wie kommt man an Informationen?  Wie Testet man ein Plugin?
-Welche Arten von Tests sollte man schreiben?
+nur wie testet man ein Plugin? Welche Arten von Tests sollte man schreiben?
+Wie kann man bestimmte Szenarien überhaupt testen?
 
 
 ## Übersicht
@@ -32,8 +32,8 @@ Workshop...
  
  * Es sind mindestens Fortgeschrittene Java Kenntnisse Notwendig.
  * Es sind mindestens Fortgeschrittene Maven Kenntnisse Notwendig.
-   Ref to Maven ..cours.e
- * Verwendung eines Vesionskontrollsystems (SVN, Git, etc.)
+   Ref to Maven course.
+ * Kenntnisse eines Versionskontrollsystems (z.B. SVN oder Git o.ä.) solten vorhanden sein.
 
 ### Zielgruppe
 
@@ -41,17 +41,17 @@ Workshop...
 
 ### Schulungsunterlagen
 
- * ????Eigene Unterlagen, Referenzdokumentation in PDF Form.
+ * Eigene Unterlagen, Referenzdokumentation in PDF Form.
 
 Auf Wunsch wird auch eine Zertifikat ausgestellt.
 
 ### Software
 
-Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der
+ * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der
 Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
-Auf Wunsch auch IntelliJ IDEA oder andere Entwicklungsumgebungen
-(NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10. Der Kurs basiert auf der
-aktuellsten Version Maven 3.5.3
+ * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen
+   (IDEA, NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10 gearbeitet werden.
+ * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.5.3).
 
 
 ## Inhalte des Seminars
@@ -59,28 +59,18 @@ aktuellsten Version Maven 3.5.3
 ### Eigene Plugins Entwickeln 
 
  * Eigene Plugins entwickeln (Java Mojos)
+ * Grundlegene Ansätze Plugins
+   * Wann und wie werden Plugins aufgerufen?
+   * Wie werden Plugins in den Build Life Cycle
+     eingebunden?
+ * Verwendung von Parametern
 
 
 ### Einführung in Maven
 
- * Anwendung im Zusammenhang mit Maven
-   * Git
-   * SVN
- * Release Erstellung
-
-Verwendung eines Versionskontrollsystems (Git, SVN etc.)
-
 ### Migration von XX zu Maven
 
  * Welche Punkte sind zu beachten?
-
-### Jenkins
-
- * Continuous Integration mit Maven: Jenkins
-
-Aufbau einer Projekt-Webseite
-Aufbau eines Java-Web-Projekts mit Tomcat und automatischem Deployment, Tests, QS
-Build Optimierung mit Maven, Parallele Builds in Maven 3
 
 
 

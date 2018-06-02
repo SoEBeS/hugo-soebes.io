@@ -10,8 +10,8 @@ Inhaltlich verantwortlich für die vorliegenden Internetseiten unter den Domains
 [soebes.de][de], [soebes.com][com], [soebes.biz][biz],
 [soebes.name][name], [soebes.info][info], [soebes.net][net], 
 [soebes.org][org], [soebes.eu][eu], [soebes.ch][ch], [soebes.io][io]
-und [soebes.at][at] laut [TDG ist][tdg]:
-
+und [soebes.at][at]
+laut [TDG ist][tdg] und dem [Art. 4 Abs. 7 Datenschutz-Grundverordnung (DSGVO) ist:][dsgvo]:
 
 ```
 SoftwareEntwicklung Beratung Schulung
@@ -28,6 +28,7 @@ USt-IdNr. : DE191347579
 
 
 [tdg]: https://dejure.org/gesetze/TMG
+[dsgvo]: https://dejure.org/gesetze/DSGVO/4.html
 [de]: http://soebes.de
 [com]: http://soebes.com
 [biz]: http://soebes.biz

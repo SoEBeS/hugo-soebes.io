@@ -39,7 +39,7 @@ kennen und können mit Maven die kontinuierliche Integration automatisieren.
  
  * Es sind mindestens fortgeschrittene Java Kenntnisse notwendig.
  * Kenntnisse in XML sollten vorhanden sein.
- * Kenntnisse eines Versionskontrollsystems (z.B. SVN oder Git o.ä.) solten vorhanden sein.
+ * Kenntnisse eines Versionskontrollsystems (z.B. SVN oder Git o.ä.) sollten vorhanden sein.
 
 ### Zielgruppe
 

@@ -29,14 +29,14 @@ USt-IdNr. : DE191347579
 
 [tdg]: https://dejure.org/gesetze/TMG
 [dsgvo]: https://dejure.org/gesetze/DSGVO/4.html
-[de]: http://soebes.de
-[com]: http://soebes.com
-[biz]: http://soebes.biz
-[name]: http://soebes.name
-[info]: http://soebes.info
-[net]: http://soebes.net
-[org]: http://soebes.org
-[eu]: http://soebes.eu
-[ch]: http://soebes.ch
-[at]: http://soebes.at
-[io]: http://soebes.io
+[de]: https://soebes.de
+[com]: https://soebes.com
+[biz]: https://soebes.biz
+[name]: https://soebes.name
+[info]: https://soebes.info
+[net]: https://soebes.net
+[org]: https://soebes.org
+[eu]: https://soebes.eu
+[ch]: https://soebes.ch
+[at]: https://soebes.at
+[io]: https://soebes.io

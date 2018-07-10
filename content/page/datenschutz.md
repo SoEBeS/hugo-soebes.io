@@ -30,13 +30,16 @@ soebes.info - - [02/Jun/2018:20:36:56 +0200] "GET /favicon.ico HTTP/1.1" 200 130
 Die IP Adresse wird zur Bekämpfung von Misbrauch und zur Gewährleistung der Verfügbarkeit 
 und Funktionsfähigkeit der vorliegenden Web Site aufgezeichnet.
 
-Die Aufgezeichneten Daten unterliegen einer 24 Stündlichen Rotation. Das heißt, dass
-diese Daten nach 72 Stunden wieder gelöscht werden.
+Die Aufgezeichneten Daten unterliegen einer 24 Stündlichen Rotation. Das
+bedeutet, dass alle 24 Stunden ein neue Aufzeichnungsdatei angelegt wird. Die
+Aufzeichnungsdateien, die älter als 72 Stunden sind werden wieder gelöscht. Das
+bedeutet, dass Daten nach spätestens 72 Stunden gelöscht werden.
 
 
 Es erfolgt keinerlei weitergabe der Daten an dritte ausser, der Weitergabe an
 die Ermittlungsbehörden im Rahmen einer Ermittlung bzw. im Rahmen der
 gesetzlichen Verpflichtung als Betreiber einer Internetseite.
 
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz
-der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der
+Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser
+Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.

@@ -1,2 +1,5 @@
+# SoftwareEntwicklung Beratung Schulung
 
-Renamed themes/m/i18n/de.toml => en.toml to get default lang de
+Content for the web site https://soebes.de
+
+

@@ -1,6 +1,6 @@
 ---
-date: 2018-02-07T18:30:00+06:00
-lastmod: 2018-08-05T21:32:00+06:00
+date: 2019-03-01T18:30:00+06:00
+lastmod: 2019-03-03T21:32:00+06:00
 title: Apache Maven Schulung
 authors: ["khmarbaise"]
 categories:

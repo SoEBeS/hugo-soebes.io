@@ -47,11 +47,10 @@ Auf Wunsch wird auch eine Zertifikat ausgestellt.
 
 ### Software
 
- * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der
-Entwicklungsumgebung Eclipse 4.7.X (Photon) eingesetzt (EE Variante).
+ * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der IDEA IntelliJ.
  * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen
    (IDEA, NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10 gearbeitet werden.
- * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.5.4).
+ * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.6.1).
 
 
 ## Inhalte des Seminars

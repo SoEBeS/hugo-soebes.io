@@ -1,6 +1,6 @@
 ---
 date: 2019-03-01T18:30:00+06:00
-lastmod: 2019-03-03T21:32:00+06:00
+lastmod: 2020-01-04T21:32:00+06:00
 title: Apache Maven Schulung
 authors: ["khmarbaise"]
 categories:
@@ -54,11 +54,11 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
 
 ### Software
 
- * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der
-Entwicklungsumgebung Eclipse 4.8.X (Photon) eingesetzt (EE Variante).
+ * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit
+   Idea IntelliJ eingesetzt.
  * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen
-   (IDEA, NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10 gearbeitet werden.
- * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.5.4).
+   (IDEA, NetBeans, Oracle JDeveloper) und JDK 9,10 oder JDK 11 gearbeitet werden.
+ * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.6.3).
 
 ## Inhalte des Seminars
 

@@ -49,8 +49,8 @@ Auf Wunsch wird auch eine Zertifikat ausgestellt.
 
  * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der IDEA IntelliJ.
  * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen
-   (IDEA, NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10 gearbeitet werden.
- * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.6.1).
+   (IDEA, NetBeans, Oracle JDeveloper) und JDK 9,10  oder JDK 11 gearbeitet werden.
+ * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.6.3).
 
 
 ## Inhalte des Seminars

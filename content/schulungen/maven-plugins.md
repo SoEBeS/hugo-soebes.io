@@ -13,7 +13,7 @@ slug: maven-plugins
 toc: true
 ---
 Sie implementieren selbst Maven Plugins? Die Frage ist jetzt
-nur wie testet man ein Plugin? Welche Arten von Tests sollte man schreiben?
+wie testet man ein Plugin? Welche Arten von Tests sollte man schreiben?
 Wie kann man bestimmte Szenarien überhaupt testen?
 
 

@@ -20,7 +20,7 @@ Wir führen ein solche Schulung gerne bei Ihnen vor Ort durch.
 ## Übersicht
 [Jenkins][jenkins] ist eine Continioues Integration Lösung
 
-Infrastructure as Code (Jenkins in SVN/Git ?)
+Infrastructure as Code (Jenkins in Git )
  Setup? Jenkins-X ? 
 Docker Setup for Jenkins?
 Job DSL

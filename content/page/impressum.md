@@ -1,5 +1,5 @@
 ---
-date: 2017-09-28T08:00:00+06:00
+date: 2021-01-03T19:12:00+06:00
 title: Impressum
 authors: ["khmarbaise"]
 slug: impressum 
@@ -9,8 +9,8 @@ weight: -230
 Inhaltlich verantwortlich für die vorliegenden Internetseiten unter den Domains
 [soebes.de][de], [soebes.com][com], [soebes.biz][biz],
 [soebes.name][name], [soebes.info][info], [soebes.net][net], 
-[soebes.org][org], [soebes.eu][eu], [soebes.ch][ch], [soebes.io][io]
-und [soebes.at][at]
+[soebes.org][org], [soebes.eu][eu], [soebes.ch][ch], [soebes.io][io],
+[soebes.team][team] und [soebes.at][at]
 laut [TDG ist][tdg] und dem [Art. 4 Abs. 7 Datenschutz-Grundverordnung (DSGVO) ist][dsgvo]:
 
 ```
@@ -40,3 +40,4 @@ USt-IdNr. : DE191347579
 [ch]: https://soebes.ch
 [at]: https://soebes.at
 [io]: https://soebes.io
+[team]: https://soebes.team

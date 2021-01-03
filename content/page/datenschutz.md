@@ -1,5 +1,5 @@
 ---
-date: 2017-09-28T08:00:00+06:00
+date: 2021-01-03T19:12:00+06:00
 title: Datenschutzerklärung
 authors: ["khmarbaise"]
 slug: datenschutz

@@ -9,7 +9,7 @@ Sie suchen Unterstützung im Bereich Software Konfigurations Management mit Open
 Source Tools wie z.B. [Subversion][svn] oder [Git][git].
 
 Sie suchen Unterstützung oder Beratung im Bereich Migration 
-hin zu Subversion oder Git?
+von Subversion zu Git?
 
 Sie suchen Möglichkeiten, Ihre Mitarbeiter zu schulen?
 

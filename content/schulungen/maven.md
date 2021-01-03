@@ -15,7 +15,7 @@ Sie haben bedarf an einer [Apache Maven Schulung][maven]? Hier finden Sie eine
 [kontaktieren](mailto:training@soebes.de) und wir beraten Sie gerne. Bei Bedarf
 machen wir Ihnen ein individuelles Angebot. 
 
-Wir führen ein solche Schulung bei Ihnen vor Ort durch. 
+Wir führen solche Schulungen auch gerne bei Ihnen vor Ort durch. 
 
 ## Übersicht
 [Apache Maven][maven] ist ein Build-Management-Tool, das den
@@ -54,7 +54,7 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
 
 ### Software
 
- * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit
+ * Als Laufzeitumgebung wird standardmäßig ein JDK11 zusammen mit
    Idea IntelliJ eingesetzt.
  * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen
    (IDEA, NetBeans, Oracle JDeveloper) und JDK 9,10 oder JDK 11 gearbeitet werden.
@@ -64,7 +64,7 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
 
 ### Einführung in Maven
 
- * Was ist Maven und vor allem was ist Maven nicht ist?
+ * Was ist Maven und vor allem was Maven nicht ist?
  * Installation und Konfiguration
  * Maven auf der Kommandozeile
 

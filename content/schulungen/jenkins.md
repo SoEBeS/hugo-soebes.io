@@ -39,8 +39,8 @@ Schulungsdauer von 3 Tagen aus.
 
 **Vorkenntnisse:**
  
- * Es sind mindestens Fortgeschrittene Java Kenntnisse Notwendig.
- * Kenntniss in XML sollten vorhanden sein.
+ * Es sind mindestens fortgeschrittene Java Kenntnisse notwendig.
+ * Kenntnisse in XML sollten vorhanden sein.
 
 **Zielgruppe:**
 
@@ -51,7 +51,7 @@ Schulungsdauer von 3 Tagen aus.
 
  * Eigene Unterlagen, Referenzdokumentation in PDF Form.
 
-Auf Wunsch wird auch eine Zertifikat ausgestellt.
+Auf Wunsch wird auch ein Zertifikat ausgestellt.
 
 **Software:**
 

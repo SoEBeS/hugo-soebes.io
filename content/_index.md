@@ -6,7 +6,7 @@ weight: -270
 Willkommen
 ==========
 Sie suchen Unterstützung im Bereich Software Konfigurations Management mit Open
-Source Tools wie z.B. [Maven][maven], [Subversion][svn] oder [Git][git].
+Source Tools wie z.B. [Maven][maven], [Git][git].
 
 Sie suchen Unterstützung oder Beratung im Bereich Migration 
 von Subversion zu Git?

@@ -58,7 +58,7 @@ Auf Wunsch wird auch eine Zertifikat ausgestellt.
 ### Eigene Plugins Entwickeln 
 
  * Eigene Plugins entwickeln (Java Mojos)
- * Grundlegene Ansätze Plugins
+ * Grundlegende Ansätze Plugins
    * Wann und wie werden Plugins aufgerufen?
    * Wie werden Plugins in den Build Life Cycle
      eingebunden?

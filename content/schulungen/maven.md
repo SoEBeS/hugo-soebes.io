@@ -1,6 +1,6 @@
 ---
 date: 2019-03-01T18:30:00+06:00
-lastmod: 2021-01-03T19:20:31+06:00
+lastmod: 2022-01-05T19:20:31+06:00
 title: Apache Maven Schulung
 authors: ["khmarbaise"]
 categories:
@@ -57,7 +57,7 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
  * Als Laufzeitumgebung wird standardmäßig ein JDK11 zusammen mit
    Idea IntelliJ eingesetzt.
  * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen
-   (IDEA, NetBeans, Oracle JDeveloper) und JDK 8, 11 oder JDK 17 gearbeitet werden.
+   (IDEA oder Eclipse) und JDK 8, 11 oder JDK 17 gearbeitet werden.
  * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.8.4).
 
 ## Inhalte des Seminars
@@ -106,8 +106,7 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
      * [maven-rar-plugin][plugin-rar] 
    * Berichte, Statistiken, Webseiten erzeugen
    * Qualitätssicherung: 
-     * PMD, Checkstyle, Findbugs, JaCoCo, JDepend, Sonar
-   * Maven Archetype Plugin
+     * PMD, Checkstyle, SpotBugs, JaCoCo, JDepend, Sonar
    * Maven Assembly Plugin
   * [appassembler-maven-plugin][appassembler-plugin], 
     [versions-maven-plugin][versions-plugin], [buildnumber-maven-plugin][buildnumber-plugin]

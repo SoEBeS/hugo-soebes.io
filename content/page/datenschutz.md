@@ -10,7 +10,7 @@ Im Rahmen des hier vorliegenden Internetauftritts werden durch das Betreten dies
 
  * Datum und Uhrzeit
  * Besuchte Seite
- * Seite von der Sie gekommen sind (sog. [referer](https://de.wikipedia.org/wiki/Referrer)), wenn vorhanden
+ * Seite, von der Sie gekommen sind (sog. [referer](https://de.wikipedia.org/wiki/Referrer)), wenn vorhanden
  * Browsertyp und Browserversion
  * Verwendetes Betriebssystem
  * Verwendeter Gerätetyp

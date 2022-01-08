@@ -47,9 +47,9 @@ Auf Wunsch wird auch eine Zertifikat ausgestellt.
 
 ### Software
 
- * Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der IDEA IntelliJ.
+ * Als Laufzeitumgebung wird standardmäßig ein JDK 17 zusammen mit der IDEA IntelliJ.
  * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen
-   (IDEA, NetBeans, Oracle JDeveloper) und JDK 9,10  oder JDK 11 gearbeitet werden.
+   (IDEA, Eclipse) und JDK 9,10  oder JDK 11 gearbeitet werden.
  * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.6.3).
 
 

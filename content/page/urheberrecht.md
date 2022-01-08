@@ -1,5 +1,5 @@
 ---
-date: 2021-12-30T08:00:00+06:00
+date: 2022-01-04T08:00:00+06:00
 title: Urheberrecht
 authors: ["khmarbaise"]
 slug: urheberrecht

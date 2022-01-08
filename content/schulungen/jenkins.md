@@ -1,7 +1,7 @@
 ---
 draft: true 
 date: 2018-02-07T18:30:00+06:00
-lastmod: 2018-04-12T02:30:00+06:00
+lastmod: 2022-01-05T02:30:00+06:00
 title: Jenkins
 authors: ["khmarbaise"]
 categories:
@@ -15,7 +15,8 @@ Sie haben bedarf an einer Jenkins Schulung? Hier finden Sie eine
 Übersicht bzgl. der Inhalte und Anforderungen. Sie können uns gerne 
 kontaktieren und wir machen Ihnen ein individuelles Angebot. 
 
-Wir führen ein solche Schulung gerne bei Ihnen vor Ort durch.
+Wir führen, solche Schulung gerne bei Ihnen vor Ort durch (aktuell
+nur Remote).
 
 ## Übersicht
 [Jenkins][jenkins] ist eine Continioues Integration Lösung
@@ -46,7 +47,6 @@ Schulungsdauer von 3 Tagen aus.
 
  * Entwickler/innen
 
-
 **Schulungsunterlagen:**
 
  * Eigene Unterlagen, Referenzdokumentation in PDF Form.
@@ -55,11 +55,10 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
 
 **Software:**
 
-Als Laufzeitumgebung wird standardmäßig das Oracle JDK 8 zusammen mit der
-Entwicklungsumgebung Eclipse 4.7.X (Oxygen) eingesetzt (EE Variante).
-Auf Wunsch auch IntelliJ IDEA oder andere Entwicklungsumgebungen
-(NetBeans, Oracle JDeveloper) und JDK 9 oder JDK 10. Der Kurs basiert auf der
-aktuellsten Version Maven 3.5.3
+Als Laufzeitumgebung wird standardmäßig das JDK 17 zusammen mit der
+Entwicklungsumgebung IDEA IntelliJ eingesetzt.
+Auf Wunsch auch Eclipse oder JDK 11 oder JDK 8. Der Kurs basiert auf der
+aktuellsten Version Maven 3.8.4
 
 
 ## Inhalte des Seminars

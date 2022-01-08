@@ -1,5 +1,5 @@
 ---
-date: 2019-03-01T18:30:00+06:00
+date: 2022-01-03T19:46:11+06:00
 lastmod: 2022-01-05T19:20:31+06:00
 title: Apache Maven Schulung
 authors: ["khmarbaise"]
@@ -15,8 +15,7 @@ Sie haben bedarf an einer [Apache Maven Schulung][maven]? Hier finden Sie eine
 [kontaktieren](mailto:training@soebes.de) und wir beraten Sie gerne. Bei Bedarf
 machen wir Ihnen ein individuelles Angebot. 
 
-Wir führen solche Schulungen aktuell
-ausschließlich Remote durch.
+Wir führen Schulungen aktuell ausschließlich Remote durch.
 
 ## Übersicht
 [Apache Maven][maven] ist ein Build-Management-Tool, das den
@@ -25,7 +24,7 @@ und die Ausgabe von Reports ermöglicht. Das praxisnahe Seminar zeigt, wie Maven
 auf der Basis des Project Object Model (POM) das Projektmanagement
 automatisiert und die Qualitätssicherung von Software-Projekten unterstützt.
 
-Die Teilnehmer lernen die Anwendung und Nutzung des 
+Die Teilnehmer lernen die Anwendung und Nutzung 
 kennen und können mit Maven die kontinuierliche Integration automatisieren.
 
 
@@ -40,7 +39,7 @@ kennen und können mit Maven die kontinuierliche Integration automatisieren.
  
  * Es sind mindestens fortgeschrittene Java Kenntnisse notwendig.
  * Kenntnisse in XML sollten vorhanden sein.
- * Kenntnisse eines Versionskontrollsystems (z.B. SVN oder Git o.ä.) sollten vorhanden sein.
+ * Kenntnisse eines Versionskontrollsystems (z.B. Git o.ä.) sollten vorhanden sein.
 
 ### Zielgruppe
 

@@ -15,7 +15,8 @@ Sie haben bedarf an einer [Apache Maven Schulung][maven]? Hier finden Sie eine
 [kontaktieren](mailto:training@soebes.de) und wir beraten Sie gerne. Bei Bedarf
 machen wir Ihnen ein individuelles Angebot. 
 
-Wir führen solche Schulungen auch gerne bei Ihnen vor Ort durch. 
+Wir führen solche Schulungen aktuell
+ausschließlich Remote durch.
 
 ## Übersicht
 [Apache Maven][maven] ist ein Build-Management-Tool, das den

@@ -36,7 +36,7 @@ Aufzeichnungsdateien, die älter als 72 Stunden sind, werden wieder gelöscht. D
 bedeutet, dass Daten nach spätestens 72 Stunden gelöscht werden.
 
 
-Es erfolgt keinerlei weitergabe der Daten an dritte ausser, der Weitergabe an
+Es erfolgt keinerlei weitergabe der Daten an Dritte ausser, der Weitergabe an
 die Ermittlungsbehörden im Rahmen einer Ermittlung bzw. im Rahmen der
 gesetzlichen Verpflichtung als Betreiber einer Internetseite.
 

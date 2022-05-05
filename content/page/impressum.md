@@ -26,6 +26,13 @@ Hauptstr. 177
 USt-IdNr. : DE191347579
 ```
 
+Verantwortlicher gemäß § 18 Abs. 2 MStV (V.i.S.d.P.):
+```
+Dipl.Ing.(FH) Karl Heinz Marbaise
+
+Hauptstr. 177
+52146 Würselen
+```
 
 [tdg]: https://dejure.org/gesetze/TMG
 [dsgvo]: https://dejure.org/gesetze/DSGVO/4.html

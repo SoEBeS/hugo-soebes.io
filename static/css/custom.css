@@ -1,3 +1,11 @@
+.widget-about .logo {
+  max-width: 15em;
+}
+
+.widget.widget-about.sep-after {
+  width: 200px;
+  height: 133px;
+}
 .header .sep-after:after {
   border-bottom-color: #6699cc;
   border-bottom-color: var(--color-accent);
@@ -5,16 +13,22 @@
 .has-sidebar .main {
   margin-left: 369px;
 }
+div.logo {
+  width: 369px;
+  height: 133px;
+  margin: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.container {
+  padding-right: 0px;
+}
 .main {
-  margin-left: 369px;
+  margin-left: 0px;
+  padding-right: 0px;
 }
 .sidebar {
   width: 369px;
 }
-.soebeslogo {
-  width: 369px;
-  height: 133px;
-  margin: 0px;
-  padding-top: 17px;
-  padding-bottom: 17px;
-}
+

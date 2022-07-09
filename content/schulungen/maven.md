@@ -54,10 +54,10 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
 
 ### Software
 
- * Als Laufzeitumgebung wird standardmäßig ein JDK11 zusammen mit
+ * Als Laufzeitumgebung wird standardmäßig ein JDK17 zusammen mit
    IDEA IntelliJ eingesetzt.
- * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen, wie z.B. Eclipse 
-   gearbeitet werden. Es wird im Rahmen JDK17 eingesetzt.
+ * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen, wie z.B. Eclipse
+   oder JDK8 gearbeitet werden.
  * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.8.6).
 
 ## Inhalte des Seminars

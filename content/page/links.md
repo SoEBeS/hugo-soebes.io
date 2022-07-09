@@ -20,11 +20,11 @@ Die Inhalte der verlinkten Seiten wurden zum Zeitpunkt der Linksetzung
 kontrolliert, ob die gewünschten Informationen dort vorliegen.
 
 Sollte sich das für einen oder mehrere Links nach der Linksetzung geändert
-haben, entweder im Bezug auf den Informationsgehalt oder im Bezug auf
+haben, entweder in Bezug auf den Informationsgehalt oder im Bezug auf
 eventuelle rechtliche Belange, so haben wir darauf leider keinen Einfluss.
 
 Wir sind aber sehr dankbar für einen Hinweis auf einen Link bzw. Seite, wo
-Inhalte sich geändert haben bzw. die rechtliche Belange tangieren. Ein solchen
+Inhalte sich geändert haben bzw. die rechtlichen Belange tangieren. Einen solchen
 Hinweis können Sie mir sowohl auf elektronischem Weg als auch per Post
 übermitteln.
 

@@ -22,7 +22,6 @@ Bereich Beratung?
 
 Nehmen Sie einfach Kontakt mit uns auf [info@soebes.de](mailto:info@soebes.de) 
 
-[svn]: https://subversion.apache.org/
 [maven]: https://maven.apache.org/
 [git]: https://git-scm.com/
 [maven]: https://maven.apache.org/

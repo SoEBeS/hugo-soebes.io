@@ -11,7 +11,7 @@ tags:
 slug: jenkins
 toc: true
 ---
-Sie haben bedarf an einer Jenkins Schulung? Hier finden Sie eine
+Sie haben Bedarf an einer Jenkins Schulung? Hier finden Sie eine
 Übersicht bzgl. der Inhalte und Anforderungen. Sie können uns gerne 
 kontaktieren und wir machen Ihnen ein individuelles Angebot. 
 

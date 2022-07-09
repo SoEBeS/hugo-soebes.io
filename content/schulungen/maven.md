@@ -1,6 +1,6 @@
 ---
 date: 2022-01-03T19:46:11+06:00
-lastmod: 2022-01-05T19:20:31+06:00
+lastmod: 2022-07-09T22:01:12+06:00
 title: Apache Maven Schulung
 authors: ["khmarbaise"]
 categories:
@@ -10,7 +10,7 @@ tags:
 slug: maven
 toc: true
 ---
-Sie haben bedarf an einer [Apache Maven Schulung][maven]? Hier finden Sie eine
+Sie haben Bedarf an einer [Apache Maven Schulung][maven]? Hier finden Sie eine
 Übersicht bzgl. der Inhalte und Anforderungen. Sie können uns gerne
 [kontaktieren](mailto:training@soebes.de) und wir beraten Sie gerne. Bei Bedarf
 machen wir Ihnen ein individuelles Angebot. 
@@ -55,10 +55,10 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
 ### Software
 
  * Als Laufzeitumgebung wird standardmäßig ein JDK11 zusammen mit
-   Idea IntelliJ eingesetzt.
- * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen
-   (IDEA oder Eclipse) und JDK 8, 11 oder JDK 17 gearbeitet werden.
- * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.8.4).
+   IDEA IntelliJ eingesetzt.
+ * Auf Wunsch kann auch mit anderen Entwicklungsumgebungen, wie z.B. Eclipse 
+   gearbeitet werden. Es wird im Rahmen JDK17 eingesetzt.
+ * Der Kurs basiert auf der aktuellsten Maven Version (aktuell 3.8.6).
 
 ## Inhalte des Seminars
 
@@ -82,31 +82,32 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
    * Remote Repositories 
      * https://central.maven.org/maven2/ (aka Maven Central)
      * https://central.sonatype.org/
- * Abhängikgeiten
+ * Abhängigkeiten
    * `dependencyManagement` versus `dependencies`
    * Konflikte bei den Abhängigkeiten auflösen (Dependency Conflicts)
  * Prinzipien: Convention Over Configuration, Verzeichnisaufbau
  * Versionsnummerierungen (Release- und SNAPSHOT Versionen).
+ * [Semantic Versioning](https://semver.org)
 
 ### Maven Plugins
 
  * Zweck und Kategorien 
    * Core z.B. [maven-compiler-plugin][plugin-compiler], [maven-resources-plugin][plugin-resources] etc.
-   * Packaging 
+   * Packaging
    * Reporting [maven-site-plugin][plugin-site]
    * Tools
  * Konfiguration von Plugins
  * Die wichtigsten Maven-Plugins
    * Core Plugins:
      * [clean][plugin-clean], compiler, install, deploy, resources, surefire, failsafe
-   * Paketierungs Plugins:
+   * Paketierung-Plugins:
      * [maven-jar-plugin][plugin-jar]
      * [maven-war-plugin][plugin-war] 
      * [maven-ear-plugin][plugin-ear]
      * [maven-rar-plugin][plugin-rar] 
    * Berichte, Statistiken, Webseiten erzeugen
    * Qualitätssicherung: 
-     * PMD, Checkstyle, SpotBugs, JaCoCo, JDepend, Sonar
+     * PMD, Checkstyle, SpotBugs, JaCoCo, Anwendung von SonarQube
    * Maven Assembly Plugin
   * [appassembler-maven-plugin][appassembler-plugin], 
     [versions-maven-plugin][versions-plugin], [buildnumber-maven-plugin][buildnumber-plugin]
@@ -138,7 +139,7 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
  
  * [Profile][profiles] (Project, User, Global)
    * Wann ist die Nutzung eines Profils sinnvoll und wann nicht?
- * Unit- und Integrationstesting
+ * Unit- und Integrationstests
    * Ausführungsreihenfolge
    * Konfiguration
  * Wie erstellt man eine Release mit Maven?
@@ -157,10 +158,9 @@ Auf Wunsch wird auch ein Zertifikat ausgestellt.
 
  * Anwendung im Zusammenhang mit Maven
    * Git
-   * SVN
+   * SVN (Nur noch auf explizite Anfrage)
  * Release Erstellung und notwendige Konfiguration
    in Maven.
-
 
 ### Migration von Tool X nach Maven
 

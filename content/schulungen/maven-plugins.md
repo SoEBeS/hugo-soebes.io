@@ -30,10 +30,10 @@ Workshop...
 
 ### Vorkenntnisse
  
- * Es sind mindestens Fortgeschrittene Java Kenntnisse Notwendig.
- * Es sind mindestens Fortgeschrittene Maven Kenntnisse Notwendig.
+ * Es sind mindestens fortgeschrittene Java Kenntnisse notwendig.
+ * Es sind mindestens fortgeschrittene Maven Kenntnisse notwendig.
    Ref to Maven course.
- * Kenntnisse eines Versionskontrollsystems (z.B. SVN oder Git o.ä.) solten vorhanden sein.
+ * Kenntnisse eines Versionskontrollsystems (z.B. SVN oder Git o.ä.) sollten vorhanden sein.
 
 ### Zielgruppe
 

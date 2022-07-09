@@ -45,13 +45,6 @@ kennen und können mit Maven die kontinuierliche Integration automatisieren.
 
  * Entwickler/innen
 
-
-### Schulungsunterlagen
-
- * Eigene Unterlagen, Referenzdokumentation in PDF Form.
-
-Auf Wunsch wird auch ein Zertifikat ausgestellt.
-
 ### Software
 
  * Als Laufzeitumgebung wird standardmäßig ein JDK17 zusammen mit

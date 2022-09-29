@@ -15,7 +15,7 @@ laut [TDG ist][tdg] und dem [Art. 4 Abs. 7 Datenschutz-Grundverordnung (DSGVO) i
 
 ```
 SoftwareEntwicklung Beratung Schulung
-Dipl.Ing.(FH) Karl Heinz Marbaise
+Inhaber Dipl.Ing.(FH) Karl Heinz Marbaise
 
 Hauptstr. 177
 52146 Würselen

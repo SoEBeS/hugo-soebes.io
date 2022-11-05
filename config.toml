@@ -73,6 +73,9 @@ page = "" # Twitter page username
 # Title Separator: - – — · • * ⋆ | ~ « » < >
 titleSeparator = "•"
 
+[social.base]
+youtube = "https://www.youtube.com/"
+
 [params.social]
 codepen = ""
 email = "info@soebes.de"

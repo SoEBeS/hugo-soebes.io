@@ -80,11 +80,12 @@ facebook = ""
 github = "khmarbaise"
 gitlab = "khmarbaise"
 instagram = ""
-linkedin = "karl-heinz-marbaise-17a15614"
+linkedin = "khmarbaise"
 twitter = "khmarbaise"
 telegram = ""
 google_scholar = ""
 xing = "KarlHeinz_Marbaise"
+youtube = "@khmarbaise"
 
 [params.comments]
 enable = false

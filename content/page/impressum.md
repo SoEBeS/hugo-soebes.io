@@ -34,6 +34,8 @@ Hauptstr. 177
 52146 Würselen
 ```
 
+<a rel="me" href="https://mastodon.social/@khmarbaise">Mastodon</a>.
+
 [tdg]: https://dejure.org/gesetze/TMG
 [dsgvo]: https://dejure.org/gesetze/DSGVO/4.html
 [de]: https://soebes.de

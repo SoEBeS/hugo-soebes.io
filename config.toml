@@ -86,6 +86,7 @@ telegram = ""
 google_scholar = ""
 xing = "KarlHeinz_Marbaise"
 youtube = "@khmarbaise"
+mastodon = "@khmarbaise"
 
 [params.comments]
 enable = false

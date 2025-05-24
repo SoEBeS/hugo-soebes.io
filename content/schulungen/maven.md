@@ -1,6 +1,6 @@
 ---
-date: 2023-08-25T12:01:12+06:00
-lastmod: 2025-05-24T21:24:45+06:00
+date: 2025-05-24T21:24:45+02:00
+lastmod: 2025-05-24T21:24:45+02:00
 title: Apache Maven Schulung
 authors: ["khmarbaise"]
 categories:
@@ -161,14 +161,8 @@ kennen und können mit Maven die kontinuierliche Integration automatisieren.
 ### Maven 4
  
  * Darstellung der Unterschiede zu Maven 3
- * Unterschiede in der Praxis (Vorgehen Multi Module Builds).
+ * Unterschiede in der Praxis (Vorgehen Multi Projekt Builds).
  * Änderungen in der POM
-
-### Jenkins
-
- * Konfiguration von Jenkins im Zusammenhang mit Maven
- * Config File Provider Plugin in Jenkins
- * Continuous Integration mit Maven: Jenkins
 
 Sollten Sie an weiteren Themen interessiert sein, wenden Sie sich gerne
 an uns.

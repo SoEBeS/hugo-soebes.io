@@ -1,6 +1,6 @@
 ---
 date: 2023-08-25T12:01:12+06:00
-lastmod: 2024-01-01T20:24:45+06:00
+lastmod: 2025-05-24T21:24:45+06:00
 title: Apache Maven Schulung
 authors: ["khmarbaise"]
 categories:
@@ -48,7 +48,7 @@ kennen und können mit Maven die kontinuierliche Integration automatisieren.
 
  * Als Laufzeitumgebung wird standardmäßig ein JDK21+ zusammen mit einer IDE
    eingesetzt.
- * Der Kurs basiert auf der Maven Version 3.9.6 (ältere Maven Versionen auf Anfrage; Biete auch Maven 4.0.0 auf Anfrage an.).
+ * Der Kurs basiert auf der Maven Version 3.9.9 (ältere Maven Versionen auf Anfrage; Biete auch Maven 4.0.0 auf Anfrage an.).
 
 ## Inhalte des Seminars
 
